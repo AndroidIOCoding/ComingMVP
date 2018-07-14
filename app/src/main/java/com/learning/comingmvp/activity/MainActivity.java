@@ -1,7 +1,9 @@
-package com.learning.comingmvp;
+package com.learning.comingmvp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.learning.comingmvp.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override
